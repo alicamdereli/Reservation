@@ -1,0 +1,17 @@
+/Users/hayrialicamdereli/Projects/MyApiProject/ApiConsume/HotelProject.DataAccessLayer/bin/Debug/net7.0/HotelProject.DataAccessLayer.deps.json
+/Users/hayrialicamdereli/Projects/MyApiProject/ApiConsume/HotelProject.DataAccessLayer/bin/Debug/net7.0/HotelProject.DataAccessLayer.runtimeconfig.json
+/Users/hayrialicamdereli/Projects/MyApiProject/ApiConsume/HotelProject.DataAccessLayer/bin/Debug/net7.0/HotelProject.DataAccessLayer.dll
+/Users/hayrialicamdereli/Projects/MyApiProject/ApiConsume/HotelProject.DataAccessLayer/bin/Debug/net7.0/HotelProject.DataAccessLayer.pdb
+/Users/hayrialicamdereli/Projects/MyApiProject/ApiConsume/HotelProject.DataAccessLayer/bin/Debug/net7.0/HotelProject.EntityLayer.dll
+/Users/hayrialicamdereli/Projects/MyApiProject/ApiConsume/HotelProject.DataAccessLayer/bin/Debug/net7.0/HotelProject.EntityLayer.pdb
+/Users/hayrialicamdereli/Projects/MyApiProject/ApiConsume/HotelProject.DataAccessLayer/obj/Debug/net7.0/HotelProject.DataAccessLayer.csproj.AssemblyReference.cache
+/Users/hayrialicamdereli/Projects/MyApiProject/ApiConsume/HotelProject.DataAccessLayer/obj/Debug/net7.0/HotelProject.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hayrialicamdereli/Projects/MyApiProject/ApiConsume/HotelProject.DataAccessLayer/obj/Debug/net7.0/HotelProject.DataAccessLayer.AssemblyInfoInputs.cache
+/Users/hayrialicamdereli/Projects/MyApiProject/ApiConsume/HotelProject.DataAccessLayer/obj/Debug/net7.0/HotelProject.DataAccessLayer.AssemblyInfo.cs
+/Users/hayrialicamdereli/Projects/MyApiProject/ApiConsume/HotelProject.DataAccessLayer/obj/Debug/net7.0/HotelProject.DataAccessLayer.csproj.CoreCompileInputs.cache
+/Users/hayrialicamdereli/Projects/MyApiProject/ApiConsume/HotelProject.DataAccessLayer/obj/Debug/net7.0/HotelProject.DataAccessLayer.csproj.CopyComplete
+/Users/hayrialicamdereli/Projects/MyApiProject/ApiConsume/HotelProject.DataAccessLayer/obj/Debug/net7.0/HotelProject.DataAccessLayer.dll
+/Users/hayrialicamdereli/Projects/MyApiProject/ApiConsume/HotelProject.DataAccessLayer/obj/Debug/net7.0/refint/HotelProject.DataAccessLayer.dll
+/Users/hayrialicamdereli/Projects/MyApiProject/ApiConsume/HotelProject.DataAccessLayer/obj/Debug/net7.0/HotelProject.DataAccessLayer.pdb
+/Users/hayrialicamdereli/Projects/MyApiProject/ApiConsume/HotelProject.DataAccessLayer/obj/Debug/net7.0/HotelProject.DataAccessLayer.genruntimeconfig.cache
+/Users/hayrialicamdereli/Projects/MyApiProject/ApiConsume/HotelProject.DataAccessLayer/obj/Debug/net7.0/ref/HotelProject.DataAccessLayer.dll
