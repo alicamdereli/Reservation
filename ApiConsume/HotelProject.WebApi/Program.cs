@@ -32,13 +32,13 @@ builder.Services.AddScoped<ITestimonialService, TestimonialManager>();
 
 builder.Services.AddCors(opt =>
 {
-    opt.AddPolicy("HotelApiCors", opts =>
+    opt.AddPolicy("HotelApiCors", opts =>  
     {
         opts.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod(); 
     });
 });
 
-var app = builder.Build();
+var app = builder.Build(); 
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
