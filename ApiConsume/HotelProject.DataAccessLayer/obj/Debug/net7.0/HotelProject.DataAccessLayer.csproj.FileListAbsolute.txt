@@ -26,10 +26,9 @@
 /Users/hayrialicamdereli/Desktop/MyApiProject/ApiConsume/HotelProject.DataAccessLayer/obj/Debug/net7.0/HotelProject.DataAccessLayer.AssemblyInfoInputs.cache
 /Users/hayrialicamdereli/Desktop/MyApiProject/ApiConsume/HotelProject.DataAccessLayer/obj/Debug/net7.0/HotelProject.DataAccessLayer.AssemblyInfo.cs
 /Users/hayrialicamdereli/Desktop/MyApiProject/ApiConsume/HotelProject.DataAccessLayer/obj/Debug/net7.0/HotelProject.DataAccessLayer.csproj.CoreCompileInputs.cache
-/Users/hayrialicamdereli/Desktop/MyApiProject/ApiConsume/HotelProject.DataAccessLayer/obj/Debug/net7.0/HotelProject.DataAccessLayer.sourcelink.json
-/Users/hayrialicamdereli/Desktop/MyApiProject/ApiConsume/HotelProject.DataAccessLayer/obj/Debug/net7.0/HotelPro.61274476.Up2Date
 /Users/hayrialicamdereli/Desktop/MyApiProject/ApiConsume/HotelProject.DataAccessLayer/obj/Debug/net7.0/HotelProject.DataAccessLayer.dll
 /Users/hayrialicamdereli/Desktop/MyApiProject/ApiConsume/HotelProject.DataAccessLayer/obj/Debug/net7.0/refint/HotelProject.DataAccessLayer.dll
 /Users/hayrialicamdereli/Desktop/MyApiProject/ApiConsume/HotelProject.DataAccessLayer/obj/Debug/net7.0/HotelProject.DataAccessLayer.pdb
 /Users/hayrialicamdereli/Desktop/MyApiProject/ApiConsume/HotelProject.DataAccessLayer/obj/Debug/net7.0/HotelProject.DataAccessLayer.genruntimeconfig.cache
 /Users/hayrialicamdereli/Desktop/MyApiProject/ApiConsume/HotelProject.DataAccessLayer/obj/Debug/net7.0/ref/HotelProject.DataAccessLayer.dll
+/Users/hayrialicamdereli/Desktop/MyApiProject/ApiConsume/HotelProject.DataAccessLayer/obj/Debug/net7.0/HotelProject.DataAccessLayer.csproj.CopyComplete

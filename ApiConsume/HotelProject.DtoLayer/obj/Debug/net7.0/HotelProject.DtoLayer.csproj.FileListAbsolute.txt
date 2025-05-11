@@ -12,3 +12,17 @@
 /Users/hayrialicamdereli/Projects/MyApiProject/ApiConsume/HotelProject.DtoLayer/obj/Debug/net7.0/HotelProject.DtoLayer.pdb
 /Users/hayrialicamdereli/Projects/MyApiProject/ApiConsume/HotelProject.DtoLayer/obj/Debug/net7.0/HotelProject.DtoLayer.genruntimeconfig.cache
 /Users/hayrialicamdereli/Projects/MyApiProject/ApiConsume/HotelProject.DtoLayer/obj/Debug/net7.0/ref/HotelProject.DtoLayer.dll
+/Users/hayrialicamdereli/Desktop/MyApiProject/ApiConsume/HotelProject.DtoLayer/bin/Debug/net7.0/HotelProject.DtoLayer.deps.json
+/Users/hayrialicamdereli/Desktop/MyApiProject/ApiConsume/HotelProject.DtoLayer/bin/Debug/net7.0/HotelProject.DtoLayer.runtimeconfig.json
+/Users/hayrialicamdereli/Desktop/MyApiProject/ApiConsume/HotelProject.DtoLayer/bin/Debug/net7.0/HotelProject.DtoLayer.dll
+/Users/hayrialicamdereli/Desktop/MyApiProject/ApiConsume/HotelProject.DtoLayer/bin/Debug/net7.0/HotelProject.DtoLayer.pdb
+/Users/hayrialicamdereli/Desktop/MyApiProject/ApiConsume/HotelProject.DtoLayer/obj/Debug/net7.0/HotelProject.DtoLayer.csproj.AssemblyReference.cache
+/Users/hayrialicamdereli/Desktop/MyApiProject/ApiConsume/HotelProject.DtoLayer/obj/Debug/net7.0/HotelProject.DtoLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hayrialicamdereli/Desktop/MyApiProject/ApiConsume/HotelProject.DtoLayer/obj/Debug/net7.0/HotelProject.DtoLayer.AssemblyInfoInputs.cache
+/Users/hayrialicamdereli/Desktop/MyApiProject/ApiConsume/HotelProject.DtoLayer/obj/Debug/net7.0/HotelProject.DtoLayer.AssemblyInfo.cs
+/Users/hayrialicamdereli/Desktop/MyApiProject/ApiConsume/HotelProject.DtoLayer/obj/Debug/net7.0/HotelProject.DtoLayer.csproj.CoreCompileInputs.cache
+/Users/hayrialicamdereli/Desktop/MyApiProject/ApiConsume/HotelProject.DtoLayer/obj/Debug/net7.0/HotelProject.DtoLayer.dll
+/Users/hayrialicamdereli/Desktop/MyApiProject/ApiConsume/HotelProject.DtoLayer/obj/Debug/net7.0/refint/HotelProject.DtoLayer.dll
+/Users/hayrialicamdereli/Desktop/MyApiProject/ApiConsume/HotelProject.DtoLayer/obj/Debug/net7.0/HotelProject.DtoLayer.pdb
+/Users/hayrialicamdereli/Desktop/MyApiProject/ApiConsume/HotelProject.DtoLayer/obj/Debug/net7.0/HotelProject.DtoLayer.genruntimeconfig.cache
+/Users/hayrialicamdereli/Desktop/MyApiProject/ApiConsume/HotelProject.DtoLayer/obj/Debug/net7.0/ref/HotelProject.DtoLayer.dll

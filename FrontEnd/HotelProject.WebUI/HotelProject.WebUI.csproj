@@ -24,9 +24,11 @@
   <ItemGroup>
     <None Remove="Views\Staff\" />
     <None Remove="Views\AdminLayout\" />
+    <None Remove="Models\Staff\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\Staff\" />
     <Folder Include="Views\AdminLayout\" />
+    <Folder Include="Models\Staff\" />
   </ItemGroup>
 </Project>
