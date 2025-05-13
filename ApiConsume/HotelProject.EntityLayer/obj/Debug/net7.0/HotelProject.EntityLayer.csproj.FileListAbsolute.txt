@@ -13,6 +13,7 @@
 /Users/hayrialicamdereli/Desktop/MyApiProject/ApiConsume/HotelProject.EntityLayer/bin/Debug/net7.0/HotelProject.EntityLayer.deps.json
 /Users/hayrialicamdereli/Desktop/MyApiProject/ApiConsume/HotelProject.EntityLayer/bin/Debug/net7.0/HotelProject.EntityLayer.dll
 /Users/hayrialicamdereli/Desktop/MyApiProject/ApiConsume/HotelProject.EntityLayer/bin/Debug/net7.0/HotelProject.EntityLayer.pdb
+/Users/hayrialicamdereli/Desktop/MyApiProject/ApiConsume/HotelProject.EntityLayer/obj/Debug/net7.0/HotelProject.EntityLayer.csproj.AssemblyReference.cache
 /Users/hayrialicamdereli/Desktop/MyApiProject/ApiConsume/HotelProject.EntityLayer/obj/Debug/net7.0/HotelProject.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
 /Users/hayrialicamdereli/Desktop/MyApiProject/ApiConsume/HotelProject.EntityLayer/obj/Debug/net7.0/HotelProject.EntityLayer.AssemblyInfoInputs.cache
 /Users/hayrialicamdereli/Desktop/MyApiProject/ApiConsume/HotelProject.EntityLayer/obj/Debug/net7.0/HotelProject.EntityLayer.AssemblyInfo.cs
@@ -21,4 +22,3 @@
 /Users/hayrialicamdereli/Desktop/MyApiProject/ApiConsume/HotelProject.EntityLayer/obj/Debug/net7.0/refint/HotelProject.EntityLayer.dll
 /Users/hayrialicamdereli/Desktop/MyApiProject/ApiConsume/HotelProject.EntityLayer/obj/Debug/net7.0/HotelProject.EntityLayer.pdb
 /Users/hayrialicamdereli/Desktop/MyApiProject/ApiConsume/HotelProject.EntityLayer/obj/Debug/net7.0/ref/HotelProject.EntityLayer.dll
-/Users/hayrialicamdereli/Desktop/MyApiProject/ApiConsume/HotelProject.EntityLayer/obj/Debug/net7.0/HotelProject.EntityLayer.csproj.AssemblyReference.cache

@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text;
 using System.Threading.Tasks;
 using HotelProject.WebUI.Models.Staff;
 using Microsoft.AspNetCore.Mvc;
@@ -26,7 +27,7 @@ namespace HotelProject.WebUI.Controllers
             // set the as a jsondata that coming from sqlserver
             // deserialize jsondata as a format that monitoring on view 
             var client = _httpClientFactory.CreateClient();
-            var responseMessage = await client.GetAsync("http://localhost:5161/api/Staff");
+            var responseMessage = await client.GetAsync("https://localhost:7009/api/Staff");
             if (responseMessage.IsSuccessStatusCode)
             {
                 var jsondata = await responseMessage.Content.ReadAsStringAsync();
@@ -34,6 +35,25 @@ namespace HotelProject.WebUI.Controllers
                 return View(values);
             }
 
+            return View();
+        }
+
+        [HttpGet]
+        public IActionResult AddStaff()
+        {
+
+            return View();
+        }
+
+        [HttpPost]
+        public async Task <IActionResult> AddStaff(AddStaffViewModel model)
+        {
+            var client = _httpClientFactory.CreateClient();
+            var jsonData = JsonConvert.SerializeObject(model);
+            StringContent stringContent = new StringContent(jsonData, Encoding.UTF8, "application/json");
+            var responseMessage = await client.PostAsync("https://localhost:7009/api/Staff",stringContent);
+            if (responseMessage.IsSuccessStatusCode)
+                return RedirectToAction("Index");
             return View();
         }
     }
