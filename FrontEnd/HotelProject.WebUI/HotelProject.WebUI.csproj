@@ -25,10 +25,14 @@
     <None Remove="Views\Staff\" />
     <None Remove="Views\AdminLayout\" />
     <None Remove="Models\Staff\" />
+    <None Remove="Models\Testimonial\" />
+    <None Remove="Views\Testimonial\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\Staff\" />
     <Folder Include="Views\AdminLayout\" />
     <Folder Include="Models\Staff\" />
+    <Folder Include="Models\Testimonial\" />
+    <Folder Include="Views\Testimonial\" />
   </ItemGroup>
 </Project>

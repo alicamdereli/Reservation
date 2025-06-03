@@ -22,4 +22,20 @@
   <ItemGroup>
     <ProjectReference Include="..\HotelProject.WebApi\HotelProject.EntityLayer\HotelProject.EntityLayer.csproj" />
   </ItemGroup>
+  <ItemGroup>
+    <None Remove="Dtos\" />
+    <None Remove="Dtos\TestimonialDto\" />
+    <None Remove="Dtos\StaffDto\" />
+    <None Remove="Dtos\RoomDto\" />
+    <None Remove="Dtos\SubscribeDto\" />
+    <None Remove="Dtos\ServiceDto\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Dtos\" />
+    <Folder Include="Dtos\TestimonialDto\" />
+    <Folder Include="Dtos\StaffDto\" />
+    <Folder Include="Dtos\RoomDto\" />
+    <Folder Include="Dtos\SubscribeDto\" />
+    <Folder Include="Dtos\ServiceDto\" />
+  </ItemGroup>
 </Project>
