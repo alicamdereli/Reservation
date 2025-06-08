@@ -49,10 +49,10 @@ namespace HotelProject.WebApi.Controllers
         [HttpPost]
         public IActionResult AddRoom(RoomAddDto roomAddDto)
         {
-            if (!ModelState.IsValid)
-            {
-                return BadRequest();
-            }
+            //if (!ModelState.IsValid)
+            //{
+            //    return BadRequest();
+            //}
             var values = _mapper.Map<Room>(roomAddDto);
             _roomService.TInsert(values);
             return Ok();
