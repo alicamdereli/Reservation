@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text;
 using System.Threading.Tasks;
 using HotelProject.WebUI.Dtos.ServiceDto;
 using HotelProject.WebUI.Models.Staff;
@@ -36,6 +37,29 @@ namespace HotelProject.WebUI.Controllers
                 return View(values);
             }
 
+            return View();
+        }
+
+        [HttpGet]
+        public IActionResult AddService()
+        {
+
+            return View();
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> AddService(CreateServiceDto createServiceDto)
+        {
+            if (!ModelState.IsValid)
+            {
+                return View();
+            }
+            var client = _httpClientFactory.CreateClient();
+            var jsonData = JsonConvert.SerializeObject(createServiceDto);
+            StringContent stringContent = new StringContent(jsonData, Encoding.UTF8, "application/json");
+            var responseMessage = await client.PostAsync("https://localhost:7009/api/Service", stringContent);
+            if (responseMessage.IsSuccessStatusCode)
+                return RedirectToAction("Index");
             return View();
         }
     }

@@ -11,10 +11,8 @@ using Microsoft.AspNetCore.Mvc;
 namespace HotelProject.WebApi.Controllers
 {
     [Route("api/[controller]")]
-    public class ServicesController : Controller
-    {
-        [Route("api/[controller]")]
-        [ApiController]
+    [ApiController]
+
         public class ServiceController : Controller
         {
             private readonly IServicesService _ServicesService;
@@ -65,6 +63,6 @@ namespace HotelProject.WebApi.Controllers
                 return Ok(values);
             }
         }
-    }
+    
 }
 
